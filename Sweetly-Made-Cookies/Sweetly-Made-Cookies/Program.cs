@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Sweetly_Made_Cookies
+namespace SweetlyMadeCookies
 {
     public class Program
     {
